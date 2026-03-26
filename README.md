@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="images/site.png" width="600"/>
+  <img src="images/{BD28D203-E46E-41E4-9EE5-E079A48B62E4}.png" />
 </p>
 
 # 📖 Documentation Technique du Projet
