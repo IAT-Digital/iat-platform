@@ -86,4 +86,13 @@ Voici les instructions de base pour faire tourner ce projet sur un environnement
 
 ---
 
+## 📦 Télécharger le projet
+
+Vous souhaitez obtenir le projet complet sous format **ZIP** ?  
+Cliquez sur le lien ci-dessous :
+
+🔗 **[Télécharger ici](https://ton-lien-ici.com)**
+
+---
+
 > *Ce document synthétique récapitule la stack technique et les outils associés choisis afin de développer ce projet de stage e-commerce avec polyvalence et professionnalisme.*
