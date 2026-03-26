@@ -10,6 +10,11 @@
   <img src="https://img.shields.io/badge/Gutenberg-%23000000.svg?style=for-the-badge&logo=wordpress&logoColor=white" alt="Gutenberg" />
 </p>
 
+
+<p align="center">
+  <img src="images/site.png" width="600"/>
+</p>
+
 # 📖 Documentation Technique du Projet
 
 Bienvenue dans la documentation technique de ce projet de stage. L'objectif principal est la création, la personnalisation et la gestion d'une boutique en ligne (e-commerce) complète, robuste et esthétique en s'appuyant sur le CMS **WordPress** et sa solution phare **WooCommerce**.
