@@ -1,0 +1,41 @@
+# === WordPress Core ===
+# Ignore all WordPress core files; only track custom content
+wordpress/wp-admin/
+wordpress/wp-includes/
+
+# WordPress root files (core)
+wordpress/wp-activate.php
+wordpress/wp-blog-header.php
+wordpress/wp-comments-post.php
+wordpress/wp-cron.php
+wordpress/wp-links-opml.php
+wordpress/wp-load.php
+wordpress/wp-login.php
+wordpress/wp-mail.php
+wordpress/wp-settings.php
+wordpress/wp-signup.php
+wordpress/wp-trackback.php
+wordpress/xmlrpc.php
+wordpress/license.txt
+wordpress/readme.html
+wordpress/index.php
+wordpress/wp-blog-header.php
+
+# === WordPress Content — only track custom themes & plugins ===
+# Ignore default themes
+wordpress/wp-content/themes/twentytwentytwo/
+wordpress/wp-content/themes/twentytwentythree/
+wordpress/wp-content/themes/twentytwentyfour/
+wordpress/wp-content/themes/twentytwentyfive/
+
+# Ignore uploads directory (user media)
+wordpress/wp-content/uploads/
+
+# === Environment / Config ===
+# Keep wp-config.php (remove this line if it contains secrets)
+# wordpress/wp-config.php
+
+# === OS & Editor files ===
+.DS_Store
+Thumbs.db
+*.log
